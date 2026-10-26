@@ -1,0 +1,7 @@
+{
+  "name": "Academic Precision - Institutional Registrar & Operations Suite",
+  "description": "High-density enterprise academic governance and administration platform featuring real-time grade books, multi-tier tuition billing, attendance matrix, and institutional compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
